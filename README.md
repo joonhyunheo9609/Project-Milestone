@@ -33,3 +33,10 @@ The fashion industry is the second-largest polluter globally, with fast fashion 
 This project stems from personal experience in vintage clothing collection, where high-quality, classic pieces become wardrobe staples. By helping users visualize different combinations and styling possibilities without additional purchases, Fashion Mix aims to reduce clothing waste while empowering consumers to make better fashion choices.
 
 ### Team Member List
+
+#### Joonhyun Heo
+- **Role**: Full-stack Developer & Project Manager
+- **Issues**:
+  1. Design and implement the virtual mannequin styling interface
+  2. Create the categorized clothing database structure
+  3. Develop the user authentication system
