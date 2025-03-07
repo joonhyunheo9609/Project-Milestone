@@ -1,5 +1,4 @@
 # Fashion Mix: A Virtual Styling Platform to Prevent Fashion Waste
-
 ## Team 7 - COMPSCI 326 Web Programming
 
 ### Project Description
